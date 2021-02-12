@@ -1,0 +1,7 @@
+﻿  Characters.cpp
+D:\实验\年兽大作战\年兽大作战\Characters.cpp(11,20): warning C4018: “<”: 有符号/无符号不匹配
+  PK.cpp
+  源.cpp
+D:\实验\年兽大作战\年兽大作战\Skin.cpp(24,20): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+  年兽大作战.vcxproj -> D:\实验\年兽大作战\Debug\年兽大作战.exe
